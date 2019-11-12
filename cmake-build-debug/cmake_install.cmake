@@ -1,4 +1,4 @@
-# Install script for directory: /Users/justinjeong/Workspace/Cpp_WS/Implementation
+# Install script for directory: /Users/justinjeong/Github/Implementation
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/justinjeong/Workspace/Cpp_WS/Implementation/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/justinjeong/Github/Implementation/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
